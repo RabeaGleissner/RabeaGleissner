@@ -1,9 +1,10 @@
-### Hi, I'm Rabea 👋
+### Hello, I'm Rabea 👋
 
 I'm a full-stack developer based in Singapore.
 
-- 🔭  Currently working at Tes, on a fully remote team.
-- 🌱  Occasionally documenting what I'm learning at [rabea.dev](https://rabea.dev).
-- 🤔  Currently learning more about web security.
-- 💬  Ask me about software apprenticeships, triathlons and life in Singapore.
+I currently work as part of a fully remote team for a UK company. We build and maintain Node.js microservices with a React frontend. Before that I mainly worked with Ruby and a bit of Elixir.
+
+Find more about me here: [rabea.dev](https://rabea.dev)
+
+- 💬  Ask me about software apprenticeships, open water swimming and life in Singapore.
 - 😄  Pronouns: she/her
